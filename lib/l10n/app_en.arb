@@ -1,0 +1,16 @@
+{
+  "launch_screen":"APP NOTES MANAGER (PROVIDER)",
+  "main_screen_app_bar_title": "Notes",
+  "main_screen_note_date":"September 10",
+  "main_screen_no_data":"NO DATA",
+  "main_screen_settings":"Settings",
+  "main_screen_about_app":"About App",
+  "add_note_title":"Add Note",
+  "add_note_hint_text":"Enter note content",
+  "add_note_save":"Save",
+  "settings_title":"Notes",
+  "settings_language":"Language",
+  "settings_language_hint_text":"Language",
+  "settings_language_arabic":"العربية",
+  "settings_language_english":"English"
+}

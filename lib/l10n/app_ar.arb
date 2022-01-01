@@ -1,0 +1,16 @@
+{
+  "launch_screen":"تطبيق ادارة المذكرات (بروفايدر)",
+  "main_screen_app_bar_title": "المذكرات",
+  "main_screen_note_date":"10 سبتمبر",
+  "main_screen_no_data":"لا يوجد بيانات",
+  "main_screen_settings":"الاعدادات",
+  "main_screen_about_app":"حول التطبيق",
+  "add_note_title":"إضافة مذكرة",
+  "add_note_hint_text":"ادخل محتوى المذكرة",
+  "add_note_save":"حفظ",
+  "settings_title":"المذكرات",
+  "settings_language":"اللغة",
+  "settings_language_hint_text":"اللغة",
+  "settings_language_arabic":"العربية",
+  "settings_language_english":"English"
+}
